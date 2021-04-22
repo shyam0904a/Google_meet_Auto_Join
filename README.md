@@ -1,7 +1,8 @@
 # Google_meet_Auto_Join
 G-Meet automation
 
-##REQUIREMENTS:
+# REQUIREMENTS:
+
             - pip3 install selenium
             - pip3 install pause
             - pip3 install pynput
@@ -16,11 +17,11 @@ Download the  Latest Chromedriver for your chome from [(https://chromedriver.chr
 
 **All the Credential are asked at run time but to schedule it,uncomment the line pause until in the script and fill in the required Fields**
 
-#Running the Script:
+# Running the Script:
 
     - python3 gmeetBOT
 
-#TO RUN ON CLOUD/SERVER
+# TO RUN ON CLOUD/SERVER
  
 Upload to services like heroku or any other cloud platform.
 
